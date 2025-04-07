@@ -29,6 +29,7 @@ It demonstrates how to automate the process of building and deploying Docker con
 - GitHub Actions builds the Docker image 
 - Tags it with the branch name
 - Pushes it to DockerHub automatically 
+![Screenshot 2025-04-07 184606](https://github.com/user-attachments/assets/d66280ab-bfe8-403f-9f80-36ca9d468196)
 
 ---
 
