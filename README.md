@@ -24,7 +24,10 @@ It demonstrates how to automate the process of building and deploying Docker con
 - Wrote a `Dockerfile` to containerize the app
 - Set up `.github/workflows/main.yml` for CI/CD pipeline
 - Stored DockerHub credentials in GitHub Secrets
-- Changed the branch name into master into main 
+- Changed the branch name into master into main
+
+- ![Screenshot 2025-04-07 184649](https://github.com/user-attachments/assets/2a8d1dfa-8fcb-4335-97e4-d2b9a52f12cb)
+
 - On every push to the `master` branch:
 - GitHub Actions builds the Docker image 
 - Tags it with the branch name
