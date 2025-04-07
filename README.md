@@ -46,12 +46,16 @@ It demonstrates how to automate the process of building and deploying Docker con
 ##  Run Locally Using Docker
 
 You can pull the image from DockerHub and run it:
+## Run the App via Docker
+
+Pull the Docker image and run the container:
+
+![Screenshot 2025-04-07 190739](https://github.com/user-attachments/assets/01aa7563-f808-440a-a247-a03b43a33448)
 
 ```bash
 docker pull srilakshmiyannam/nodejs-demo-app:master
 docker run -p 3000:3000 srilakshmiyannam/nodejs-demo-app:master
 
 
-# Then visit: http://localhost:3000
 
 
